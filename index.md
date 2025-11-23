@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Summer pockets
 ---
+
+I like Summe Pockets
 
